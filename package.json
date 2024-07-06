@@ -1,6 +1,6 @@
 {
   "name": "web-mime-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mapping of the most common MIME types on the Web by extension. Currently 75 extensions.",
   "keywords": [
     "mime-types",
@@ -9,7 +9,10 @@
   ],
   "homepage": "https://github.com/dmnsgn/web-mime-types",
   "bugs": "https://github.com/dmnsgn/web-mime-types/issues",
-  "repository": "dmnsgn/web-mime-types",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmnsgn/web-mime-types.git"
+  },
   "funding": [
     {
       "type": "individual",
